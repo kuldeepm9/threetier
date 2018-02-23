@@ -3,7 +3,7 @@
 	"Changes": [{
 		"Action": "CREATE",
 		"ResourceRecordSet": {
-			"Name": "testapp",
+			"Name": "testapp.devwithops.com",
 			"Type": "CNAME",
 			"TTL":1000,
 			"ResourceRecords": [{
